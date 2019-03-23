@@ -4,10 +4,10 @@ Vue.directive('format', {
 
 		if(modifiers.bold){
 			el.style.fontWeight = "bold";
-        }
-        
+		}
+
 		if (modifiers.underline) {
 			el.style.textDecoration = "underline";
-        }
+		}
 	}
 }); 
