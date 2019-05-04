@@ -1,0 +1,23 @@
+{
+  "name": "vue-directive-helper",
+  "version": "1.0.0",
+  "description": "Vue Directives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/vue-directive.git"
+  },
+  "keywords": [
+    "Vue",
+    "Directives"
+  ],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/vue-directive/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/vue-directive#readme"
+}
